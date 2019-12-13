@@ -1,0 +1,9 @@
+.bggray{
+    background: linear-gradient(to bottom,#f0f0f0 0%,#e0e0e0 100%);
+}
+.my_btn2{
+    width: 14px;
+    height: 14px;
+    line-height: 14px;
+    text-align: center;
+}

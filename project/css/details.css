@@ -1,0 +1,20 @@
+.breadcrumb-item + .breadcrumb-item::before{
+    content: ">";
+}
+.my_imgs_w{
+    width: 28rem !important;
+}
+#list li img{
+    width: 5.2rem !important;
+}
+.my_div_overflow{
+    overflow: hidden;
+}
+.my_input_w{
+    width: 8% !important;
+}
+.btn-outline-dark:hover {
+    color: #0aa1ed !important;
+    background-color: transparent;
+    border-color: #0aa1ed;
+}
